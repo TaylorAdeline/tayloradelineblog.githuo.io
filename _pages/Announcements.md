@@ -1,40 +1,16 @@
 ---
-title: "Activate Goat Counter to know how many users visit your blog or posts"
-tags:
-    - user manual
-    - utility
-    - goatcounter
-date: "2024-02-02"
-thumbnail: "https://i.ibb.co/xj20N3N/card.webp"
-bookmark: true
+title: "First and foremost, please note that this website does not sell products and does not facilitate any transactions."
+date: "2026-04-22"
+<video width="640" height="360" controls>
+  <source src="/assets/rlo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
-[![goatcounter](https://cdn.icon-icons.com/icons2/2699/PNG/512/goatcounter_logo_icon_170078.png){:class="img-md"}](https://www.goatcounter.com/)
+[![goatcounter](/assets/labubu.webp){:class="img-md"}]
 
-GoatCounter is an open source **web analytics platform** available as a free donation-supported hosted service or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo (*in official guide*).
-
-# Getting started
+# Notices
 ---
 
-## Sign up & Get your access code
-
-Create new account in [here](https://www.goatcounter.com/signup)
-
-You will access your blog statistics at `https://[my-code].goatcounter.com`.
-
-## Add your code to `_config.yml`
-
-```
-goatcounter_code: [my-code]
-```
-
-Check if your adblocker is blocking GoatCounter if you don’t see any pageviews.
-
-## Allow visitor counter
-
-Sign in **Goat counter** from your browser, and enter the [Settings](https://[my-code].goatcounter.com/settings/main) tab.
-
-Make sure `Allow adding visitor counts on your website` is checked:
-
-![](https://i.ibb.co/R7TKCmy/2024-01-13-043651.png){:class="img-md"}
-
+This site is for viewing only. The blogger shares content for personal use. If you have any needs or requests, please contact me via my private channel—located in the bottom-left corner on desktop and the top-right corner (three horizontal lines) on mobile.
