@@ -1,13 +1,12 @@
 ---
 title: "First and foremost, please note that this website does not sell products and does not facilitate any transactions."
 date: "2026-04-22"
-categories: [Announcements]
----
-
   <video width="640" height="360" controls>
     <source src="/assets/img/rlo.webm" type="video/webm">
     Your browser does not support the video tag.
   </video>
+bookmark: true
+---
 
 <picture>
   <source srcset="/assets/img/labubu.webp" type="image/webp">
