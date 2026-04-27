@@ -1,6 +1,7 @@
 ---
 title: "First and foremost, please note that this website does not sell products and does not facilitate any transactions."
 date: "2026-04-22"
+categories: Announcements
 ---
 
   <video width="640" height="360" controls>
