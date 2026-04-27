@@ -4,7 +4,7 @@ date: "2026-04-22"
 ---
 
   <video width="640" height="360" controls>
-    <source src="{{ '/assets/img/rlo.webm' | relative_url }}">
+    <source src="/assets/img/rlo.webm" type="video/webm">
     Your browser does not support the video tag.
   </video>
 ---
