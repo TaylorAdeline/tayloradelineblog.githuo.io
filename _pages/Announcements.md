@@ -1,9 +1,10 @@
 ---
 title: "First and foremost, please note that this website does not sell products and does not facilitate any transactions."
 date: "2026-04-22"
-video: |
+---
+
   <video width="640" height="360" controls>
-    <source src="/assets/img/rlo.webm" type="video/webm">
+    <source src="{{ '/assets/img/rlo.webm' | relative_url }}">
     Your browser does not support the video tag.
   </video>
 ---
